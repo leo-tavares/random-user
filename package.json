@@ -1,0 +1,25 @@
+{
+  "name": "random-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-tavares/random-user.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-tavares/random-user/issues"
+  },
+  "homepage": "https://github.com/leo-tavares/random-user#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.1"
+  }
+}
