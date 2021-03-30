@@ -7,3 +7,7 @@ A ideia foi construir uma api utilizando o express, de modo que seja possível o
 
 - Execute o comando `npm install` na raiz do projeto
 - após instalar as depêndencias vc pode "ligar o servidor" com o comando `npm run dev`
+
+## Demonstração da api
+
+<img src="asserts/vid.gif" width="500" height="400" />
